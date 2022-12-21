@@ -1,7 +1,7 @@
 <h1 align="center">Hallo 👋, ich bin Marvin</h1>
 <h3 align="center">Ein leidenschaftlicher Junior-Entwickler aus der Schweiz</h3>
 
-<h3 align="left">Verbinde dich mit mir:< /h3>
+
 <p align="left">
 <a href="https://www.youtube.com/c/marvink" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marvink" height="30" width="40" /></a >
 </p>
