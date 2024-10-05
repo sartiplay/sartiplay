@@ -26,7 +26,7 @@ I'm a FullStack Developer from Switzerland
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://swisswebdev.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-kiefer-b57bbb191/)
-[![twitter](https://img.shields.io/badge/instagram-a316c9?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/instagram-a316c9?style=for-the-badge&logo=instagram&logoColor=white)]([https://twitter.com/](https://www.instagram.com/openiris/))
 
 
 ## Contributing
