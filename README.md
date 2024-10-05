@@ -1,7 +1,3 @@
-
-![Logo](https://avatars.githubusercontent.com/u/68593972?v=4)
-
-
 # Hi, I'm MarvinK! 👋
 
 
