@@ -26,7 +26,7 @@ Most of my Repositories are Private :(
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://swisswebdev.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://swisswebdev.ch/)
 
 <div align="left">
   <a href="https://www.youtube.com/@sartiplays" target="_blank">
