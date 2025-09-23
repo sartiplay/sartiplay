@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a FullStack Developer from Switzerland
+I am a Fullstack Developer from Switzerland
 
 Most of my Repositories are Private :(
 
