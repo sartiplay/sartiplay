@@ -6,18 +6,6 @@ I am a Fullstack Developer from Switzerland
 
 Most of my Repositories are Private :(
 
-## 🛠 Skills
-
-| Skills                                 | Level (1 - 10) |
-| -------------------------------------- | -------------- |
-| C#                                     | 6              |
-| HTML                                   | 9              |
-| CSS                                    | 7              |
-| JavaScript                             | 8              |
-| Typescript (is better than Javascript) | 8              |
-| React                                  | 7              |
-| NextJS                                 | 7              |
-
 ## My Favorit Libraries and Components
 
     1. Shadcn/UI
