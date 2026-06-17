@@ -31,11 +31,14 @@ My favourite parts to reach for off the shelf:
 
 | Component        | Why it earns a slot |
 | :--------------- | :------------------ |
-| **Shadcn/UI**    | Clean, ownable, no black boxes |
-| **DaisyUI**      | Fast scaffolding when the clock is running |
-| **Framer Motion**| Because static interfaces feel unfinished |
+| **Convex**       | Reactive backend + DB in one, real-time without the plumbing |
+| **Clerk**        | Auth that just works, so I never roll my own again |
+| **Next.js**      | The chassis everything bolts onto |
+| **TypeScript**   | If it compiles, it ships |
+| **Tailwind + Shadcn/UI** | Ownable components, zero black boxes |
+| **Stripe**       | Money in, money out, no drama |
 
-> Bolted onto a chassis of **Next.js**, **TypeScript**, **Node** and **PostgreSQL**.
+> Self-hosted on my own metal where it counts. Tolerances stay tight.
 
 ## 🔩 Things I've Shipped (a sample)
 
