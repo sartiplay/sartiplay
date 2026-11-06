@@ -12,7 +12,7 @@
 
 </div>
 
-## ⚙️ About This Unit
+## ⚙️ About Me!
 
 I started life cutting metal as a **Polymechaniker EFZ**, then swapped the lathe for a keyboard and never looked back. These days I machine software with the same obsession for tolerances, except the chips are made of TypeScript.
 
